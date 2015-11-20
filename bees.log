@@ -1,0 +1,5 @@
+INFO:root:Connection Made!
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+INFO:root:Count Bee or Bees from 2013
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+INFO:root:Count Bee or Bees from 2014
